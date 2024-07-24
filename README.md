@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DeepeshSuryavanshi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently Looking for MERN Stack Developer job
 - 💞️ I’m looking to collaborate on My Personal Project
-- 📫 How to reach me ...
+- 📫 How to reach me .
+-   Email: suryavanshideepesh04@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Procrastinator
 
